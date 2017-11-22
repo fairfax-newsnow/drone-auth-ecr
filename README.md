@@ -1,6 +1,10 @@
 # drone-auth-ecr
 Customised drone plugin which can be used to pull ECR images in aws.
 
+# public image
+
+https://hub.docker.com/r/newsnowio/drone-auth-ecr/
+
 ### Build the image
 
 ```
